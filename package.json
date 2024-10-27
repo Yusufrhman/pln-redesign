@@ -2,7 +2,7 @@
   "name": "pln",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Yusufrhman.github.io/pln-redesign",
+  "homepage": "https://yusufrhman.github.io/pln-redesign",
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.2.2",
     "@phosphor-icons/react": "^2.1.7",
