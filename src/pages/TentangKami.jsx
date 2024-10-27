@@ -14,7 +14,7 @@ export default function TentangKamiPage() {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <div className="">
+    <div className=".">
       <TentangKami />
       <VisiMisi />
       <Struktur />
